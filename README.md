@@ -19,3 +19,4 @@ Tested on these JREs:
 Tested on these OSes:
 * Ubuntu 12.04 x86_64 (baremetal).
 
+See ticket [#1865](http://play.lighthouseapp.com/projects/57987/tickets/1865) on Play Lighthouse.
